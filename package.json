@@ -1,6 +1,8 @@
 {
 	"author": "Aryan Nagula",
+	"description": "A project that does something awesome",
 	"name": "fcc-learn-npm-package-json",
+	"keywords": ["cool", "project", "keywords"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -11,6 +13,6 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	},
-	"description": "A project that does something awesome"
+	}
+	
 }
