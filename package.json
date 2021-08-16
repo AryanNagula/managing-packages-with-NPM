@@ -2,7 +2,7 @@
 	"author": "Aryan Nagula",
 	"description": "A project that does something awesome",
 	"name": "fcc-learn-npm-package-json",
-	"keywords": ["cool", "project", "keywords"],
+	"keywords": ["cool", "project", "keywords", "freecodecamp"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
